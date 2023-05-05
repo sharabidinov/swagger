@@ -19,5 +19,5 @@ Swagger
   python manage.py runserver
   ```
 * Log in
-* Swagger page available on your ```localhost``` ```/docs/``` page
+* Swagger page available on your ```localhost``` ```/docs/``` and ```/schema/``` pages
   
